@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For any inquiries or suggestions, please reach out through tanaka.hiroshi92211@gmail.com.
+For any inquiries or suggestions, please reach out through tanaka.hiroshi92226@gmail.com.
 
 ---
 
